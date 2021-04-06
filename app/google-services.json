@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "951270314644",
+    "firebase_url": "https://okidos-mobileapp.firebaseio.com",
+    "project_id": "okidos-mobileapp",
+    "storage_bucket": "okidos-mobileapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:951270314644:android:ac785054540dbb4f6eda81",
+        "android_client_info": {
+          "package_name": "com.store.okidosmobileapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "951270314644-tjmtlmch0qtla0og688t10ig5bl9ke1m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAZr4IImIz5oijyzkD3T_kiSf42LDh0ni8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "951270314644-tjmtlmch0qtla0og688t10ig5bl9ke1m.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

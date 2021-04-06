@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">OKIDOS mobileApp</string>
+    <string name="open">open</string>
+    <string name="close">close</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="action_settings">Settings</string>
+    <string name="YellowTShirt">Yellow T-Shirt COCO Brand LKR.2000</string>
+    <string name="categoriesshoes">SHOES</string>
+    <string name="custname">Enter Name</string>
+    <string name="custaddress">Enter Address</string>
+    <string name="custquantity">Enter Quantity</string>
+    <string name="officewear">OFFICE WEAR</string>
+    <string name="jeans">JEANS</string>
+    <string name="tshirts">T-SHIRTS</string>
+    <string name="shoes">SNEAKERS</string>
+    <string name="jewlry">JEWELRY</string>
+    <string name="heelshigh">HIGH HEELS</string>
+    <string name="capshats">CAPS AND HATS</string>
+    <string name="viewcatogry">VIEW</string>
+    <string name="jackets">JACKETS / HOODIES</string>
+</resources>

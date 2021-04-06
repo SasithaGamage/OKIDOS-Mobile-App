@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:title="General">
+        <menu>
+            <item
+                android:id="@+id/homenav"
+                android:icon="@drawable/home_nav"
+                android:title="HOME" />
+            <item
+                android:id="@+id/cart"
+                android:icon="@drawable/shoppingcart_nav"
+                android:title="CART" />
+            <item
+                android:id="@+id/ordersNav"
+                android:icon="@drawable/buynow"
+                android:title="ORDERS" />
+
+            <item
+                android:id="@+id/feedback"
+                android:icon="@drawable/feedback_vector"
+                android:title="FEEDBACK"/>
+
+            <item
+                android:id="@+id/account"
+                android:icon="@drawable/useraccount_nav"
+                android:title="MY ACCOUNT"/>
+            <item
+                android:id="@+id/logout"
+                android:icon="@drawable/logout_vector"
+                android:title="LOGOUT" />
+
+
+        </menu>
+    </item>
+
+</menu>
